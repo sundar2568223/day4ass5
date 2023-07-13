@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\bin\Debug\net7.0\day4ass5.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\bin\Debug\net7.0\day4ass5.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\bin\Debug\net7.0\day4ass5.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\bin\Debug\net7.0\day4ass5.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\bin\Debug\net7.0\day4ass5.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\refint\day4ass5.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\day4ass5.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day4\day4ass5\day4ass5\obj\Debug\net7.0\ref\day4ass5.dll
